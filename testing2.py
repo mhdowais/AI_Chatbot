@@ -1,7 +1,7 @@
 import openai
 import sqlite3
 
-openai.api_key = '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'
+openai.api_key = ''
 
 # Define the model for chat-based completion
 model = "gpt-3.5-turbo"
